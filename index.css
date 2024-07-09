@@ -143,3 +143,34 @@
     margin-inline-end: auto;
     margin-left: 150px;
 }
+
+.section2-main {
+    width: 1540px;
+    height: 593px;
+    border-radius: 16px;
+    /* background: rgba(13, 19, 33, 0.02); */
+    margin-inline: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+.section2-main-title{
+    font-size: 32px;
+    font-weight: 800px;
+    color: rgb(13, 19, 33);
+}
+.section2-main-subtitle{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 16px;
+    font-weight: 400px;
+
+}
+.section2-video{
+    background:rgb(244, 244, 242);
+    width: 620px;
+    height: 350px;
+    padding-top: 25px;
+    border-radius: 20px;
+    margin-left: 30%;
+    margin-top: 100px;
+
+}
