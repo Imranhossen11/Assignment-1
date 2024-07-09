@@ -67,3 +67,79 @@
     color: white;
     font-size: 16px;
 }
+
+/* 1st section */
+.section1-main {
+    width: 1540px;
+    height: 1393px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    margin-inline: auto;
+}
+
+.content-center {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.section1-main-title {
+    font-size: 32px;
+    font-weight: 800px;
+    color: rgb(13, 19, 33);
+}
+
+.section1-main-title-description {
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 16px;
+    font-weight: 400px;
+
+}
+
+.section1-lyyer1-main {
+    display: flex;
+    width: 1246px;
+    height: 270px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
+    margin-inline: auto;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+
+.section1-lyyer1-main-subdiv {
+    padding-left: 50px;
+    padding-top: 40px;
+
+}
+
+.section1-lyyer1-title {
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700px;
+
+}
+
+.section1-lyyer1-descripation {
+    font-size: 14px;
+    font-weight: 400px;
+    color: rgb(13, 19, 33);
+}
+
+.section1-lyyer1-main-btn {
+    width: 171px;
+    height: 47px;
+    font-size: 15px;
+    margin-top: 20px;
+
+}
+
+.section1-lyyer1-main-subdiv2 {
+    padding-top: 60px;
+    padding-right: 50px;
+
+}
+
+.sections-divs {
+    margin-inline-end: auto;
+    margin-left: 150px;
+}
