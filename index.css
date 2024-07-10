@@ -261,3 +261,43 @@
     font-weight: 700px;
     color: rgb(13, 19, 33);
 }
+
+/* 4th section */
+.section-4main {
+    width: 1540px;
+    height: 593px;
+    border-radius: 16px;
+    /* background: rgba(13, 19, 33, 0.02); */
+    margin-inline: auto;
+    margin-top: 100px;
+
+}
+
+.section-4main-sub1 {
+    text-align: center;
+}
+
+.section-4-title {
+    font-size: 32px;
+    font-weight: 800px;
+    color: rgb(13, 19, 33);
+}
+
+.section-4-sub {
+    display: flex;
+    width: 1540px;
+    height: 230px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin-top: 20px;
+}
+.section-4subclassdiv{
+    margin-left: 50px;
+    
+}
+.section-4subclassdivimage{
+    margin-top: 65px;
+    margin-left: 25px;
+}
