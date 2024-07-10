@@ -169,12 +169,12 @@
 
 .section2-video {
     background: rgb(244, 244, 242);
-    width: 620px;
-    height: 350px;
+    width: 800px;
+    height: 475px;
     padding-top: 25px;
     border-radius: 20px;
     margin-left: 30%;
-    margin-top: 100px;
+    margin-top: 30px;
 
 }
 
@@ -184,7 +184,7 @@
     border-radius: 16px;
     /* background: rgba(13, 19, 33, 0.02); */
     margin-inline: auto;
-    margin-top: 100px;
+    margin-top: 150px;
 
 }
 
